@@ -1,5 +1,10 @@
-- 👋 Hi, I’m Isha Bhardwaj
-- 👀 I’m interested in DATA
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Business Intelligence projects and more
-- 📫 How to reach me bhardwajisha0@gmail.com
+<h1 align="center">Hi 👋, I'm Isha Bhardwaj</h1>
+
+<h3 align="center">A Zealous Data Science and Data Analytics Professional with Statistics Major</h3>
+
+- 🌱 I’m currently learning **Machine Learning and NLP**
+
+-  📫 How to reach me **bhardwajisha0@gmail.com**
+
+-  
+
