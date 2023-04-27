@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IshaBhardwaj15
+- 👋 Hi, I’m Isha Bhardwaj
 - 👀 I’m interested in DATA
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Business Intelligence projects and more
