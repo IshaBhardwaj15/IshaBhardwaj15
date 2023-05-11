@@ -2,7 +2,7 @@
 
 <h3 align="center">A Zealous Data Science and Data Analytics Professional with Statistics Major</h3>
 
-- 🌱 I’m currently learning **Machine Learning and NLP**
+- 🌱 I’m currently learning **Machine Learning and SQL**
 
 - 📫 How to reach me **bhardwajisha0@gmail.com**
 
