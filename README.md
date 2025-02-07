@@ -2,9 +2,9 @@
 
 <h3 align="center">A Zealous Data Science and Data Analytics Professional with Statistics Major</h3>
 
-- 🌱 I’m currently learning **Power BI and SQL**
+- 🌱 I’m currently learning **Python and R**
 
-- 📫 How to reach me **bhardwajisha0@gmail.com**
+- 📫 How to reach me **bhardwajisha0@hotmail.com**
 
 - 📝 Connect with me on LinkedIn [https://www.linkedin.com/in/ishabhardwaj15/](https://www.linkedin.com/in/ishabhardwaj15/)
 
